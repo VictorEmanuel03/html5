@@ -1,0 +1,35 @@
+*{ /* limpar estilos de margin e espaçamento*/
+	margin:0;
+	padding:0;
+}
+
+header{
+	height: 100px;
+	background-color:#0000FF;
+	width: 100%;
+}
+
+nav{
+	height: 400px;
+	background-color: #FFFFFF;
+	width: 20%;
+	float: left;
+}
+article{
+	height: 400px;
+	background-color: #00FCFF;
+	width: 60%;
+	float: left;
+}
+aside{
+	height: 400px;
+	background-color: #FFF600;
+	width: 20%;
+	float: right;
+}
+footer{
+	height: 200px;
+	background-color: #FF0000;
+	width: 100%;
+	clear: both;
+}
